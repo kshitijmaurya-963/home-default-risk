@@ -1,2 +1,27 @@
-/data
-/models
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+
+# Environment Variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# Data (large files)
+data/raw/
+
+# Gold dataset - reproducible from Databricks
+data/processed/loan_risk_gold_full.csv
+
+# OS files
+.DS_Store
+Thumbs.db
