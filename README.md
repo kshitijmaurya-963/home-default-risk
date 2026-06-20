@@ -115,6 +115,8 @@ https://home-credit-default-risk-api-ny4s.onrender.com/docs
 
 ## Streamlit Dashboard
 
+https://home-default-risk.streamlit.app/
+
 The dashboard provides:
 
 * Interactive applicant form
@@ -154,7 +156,10 @@ home-default-risk/
 │   └── demo_cases.csv
 
 ├── docs/
-│   └── ...
+│   ├── 01_bronze_ingestion.html
+│   ├── 02_silver_process.html
+│   ├── 03_gold_process.html
+│   └── architecture.png
 
 ├── models/
 │   ├── hybrid_pipeline.pkl
