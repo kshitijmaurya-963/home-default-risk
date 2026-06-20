@@ -190,9 +190,3 @@ home-default-risk/
 * Streamlit Community Cloud
 
 ---
-
-## Author
-
-**Kshitij Maurya**
-
-AI/ML Engineer specializing in Machine Learning, Data Science, and MLOps.
