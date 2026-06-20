@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import math
 
-BASE_URL = "http://127.0.0.1:8000"
+BASE_URL = "https://home-credit-default-risk-api-ny4s.onrender.com"
 
 
 # ---------------------------------
